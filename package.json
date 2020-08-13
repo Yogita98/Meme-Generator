@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
-    "homepage": "https://github.com/Yogita98.github.io.Meme-Generator",
+    "homepage": "https://yogita98.github.io/Meme-Generator",
     "scripts": {
         "build": "webpack",
         "start": "webpack-dev-server",
