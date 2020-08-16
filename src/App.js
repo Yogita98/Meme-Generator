@@ -4,7 +4,7 @@ import MemeGenerator from "./MemeGenerator"
 
 function App() {
     return (
-        <div >
+        <div>
             <Header />
             <MemeGenerator />
         </div>
